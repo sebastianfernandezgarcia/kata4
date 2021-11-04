@@ -2,7 +2,7 @@ package kata4.main;
 
 
 public class Mail {
-    
+     
     private final String mail;
     
     public Mail(String mail) {
